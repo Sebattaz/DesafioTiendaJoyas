@@ -1,0 +1,2 @@
+[2024-11-01T00:42:55.851Z] GET /joyas?limits=2&order_by=id_ASC&page=2
+[2024-11-01T00:43:01.444Z] GET /joyas/filtros?categoria=collar&metal=plata
